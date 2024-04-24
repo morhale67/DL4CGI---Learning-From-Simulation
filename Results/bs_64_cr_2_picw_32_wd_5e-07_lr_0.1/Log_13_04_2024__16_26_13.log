@@ -1,0 +1,61 @@
+2024-04-13 16:26:13,503 This is a summery of the run:
+2024-04-13 16:26:13,503 Batch size for this run: 64
+2024-04-13 16:26:13,503 Size of original image: 32 X 32
+2024-04-13 16:26:13,503 number of masks: 512
+2024-04-13 16:26:13,504 Compression ratio: 2
+2024-04-13 16:26:13,504 epochs : 3
+2024-04-13 16:26:13,504 one learning rate: 0.1
+2024-04-13 16:26:13,504 optimizer: adam
+2024-04-13 16:26:13,504 weight_decay: 5e-07
+2024-04-13 16:26:13,504 ***************************************************************************
+
+
+2024-04-13 16:26:21,396 Epoch number 0, batch number 0/1:       batch loss 1.9222424030303955
+2024-04-13 16:26:21,397 Epoch: 1 	Training Loss: 0.030035
+2024-04-13 16:26:21,397 Time for epoch 1 : 1 sec
+2024-04-13 16:26:21,397 lr for epoch 1 is 0.10000
+2024-04-13 16:26:21,539 Epoch number 0, batch number 0/1:       batch loss 0.888622522354126
+2024-04-13 16:26:21,619 Epoch number 1, batch number 0/1:       batch loss 1.236818790435791
+2024-04-13 16:26:21,619 Epoch: 2 	Training Loss: 0.019325
+2024-04-13 16:26:21,619 Time for epoch 2 : 0 sec
+2024-04-13 16:26:21,619 lr for epoch 2 is 0.10000
+2024-04-13 16:26:21,639 Epoch number 1, batch number 0/1:       batch loss 0.888622522354126
+2024-04-13 16:26:21,716 Epoch number 2, batch number 0/1:       batch loss 0.9534139633178711
+2024-04-13 16:26:21,716 Epoch: 3 	Training Loss: 0.014897
+2024-04-13 16:26:21,716 Time for epoch 3 : 0 sec
+2024-04-13 16:26:21,716 lr for epoch 3 is 0.10000
+2024-04-13 16:26:21,734 Epoch number 2, batch number 0/1:       batch loss 0.888622522354126
+2024-04-13 16:26:21,770 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,774 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,775 findfont: Font family 'Times New Roman' not found.
+2024-04-13 16:26:21,775 findfont: Font family 'Times New Roman' not found.
+2024-04-13 16:26:21,778 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,778 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,784 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,785 findfont: Font family 'Times New Roman' not found.
+2024-04-13 16:26:21,821 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,827 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,828 findfont: Font family 'Times New Roman' not found.
+2024-04-13 16:26:21,849 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,849 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,849 findfont: Font family 'Times New Roman' not found.
+2024-04-13 16:26:21,849 findfont: Font family 'Times New Roman' not found.
+2024-04-13 16:26:21,851 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,852 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,858 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,859 findfont: Font family 'Times New Roman' not found.
+2024-04-13 16:26:21,888 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,894 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,895 findfont: Font family 'Times New Roman' not found.
+2024-04-13 16:26:21,915 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,915 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,915 findfont: Font family 'Times New Roman' not found.
+2024-04-13 16:26:21,915 findfont: Font family 'Times New Roman' not found.
+2024-04-13 16:26:21,917 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,917 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,922 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,923 findfont: Font family 'Times New Roman' not found.
+2024-04-13 16:26:21,951 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,955 findfont: Font family 'Arial' not found.
+2024-04-13 16:26:21,956 findfont: Font family 'Times New Roman' not found.
+2024-04-13 16:26:21,960 Run Finished Successfully

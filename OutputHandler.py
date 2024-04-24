@@ -4,7 +4,7 @@ import shutil
 import matplotlib.pyplot as plt
 import numpy as np
 import torch
-import cv2
+# import cv2
 import wandb
 from skimage import img_as_float
 from skimage.metrics import structural_similarity as ssim
@@ -35,16 +35,18 @@ def deal_exist_folder(folder_path):
 
 
 def make_folder(p):
+
     folder_name = f"bs_{p['batch_size']}_cr_{p['cr']}_picw_{p['pic_width']}_wd_{p['weight_decay']}"
     if not p['learn_vec_lr']:
         folder_name = folder_name + f"_lr_{p['lr']}"
-
     print(folder_name)
+
     folder_path = 'Results/' + folder_name
     if os.path.exists(folder_path):
         folder_path = deal_exist_folder(folder_path)
     else:
         os.makedirs(folder_path)
+        
     return folder_path
 
 
